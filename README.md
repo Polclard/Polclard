@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Polclard
+- 👋 Hi, I’m @Polclard (Alen Jangelov)
 - 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently learning Software Engineering and Information Systems
 
