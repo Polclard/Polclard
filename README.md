@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Polclard (Alen Jangelov)
 - 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently learning Software Engineering and Information Systems
+- 🌱 I’m currently studying Software Engineering and Information Systems
 
 <!---
 Polclard/Polclard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
